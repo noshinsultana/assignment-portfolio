@@ -1,0 +1,160 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.contents{
+     margin: 0px;
+    padding: 13px 65px;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-size: 10px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+header{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+header
+.box1{
+    width: 30.33%;
+    float: left;
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: #eaeaec;
+    padding: 20px;
+}
+header
+.box2{
+    width: 30.33%;
+    float: left;
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: #eaeaec;
+    padding: 20px;
+}
+header
+.box3{
+    width: 30.33%;
+    float: left;
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: #eaeaec;
+    padding: 20px;
+}
+
+header
+.box1
+h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 50px;
+}
+header
+.box1
+p{
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 22px;
+}
+header
+.box2
+h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 50px;
+}
+header
+.box2
+p{
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 22px;
+}
+header
+.box3
+h1{
+    font-size: 35px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 50px;
+}
+header
+.box3
+p{
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0;
+    line-height: 22px;
+}
+img{
+	max-width: 100%;
+}
+footer {
+    width:1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eeeeee;
+    overflow: hidden;
+}
+footer
+.box1 {
+    width:26.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+footer
+.box2{
+    width: 34.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+footer
+.box3{
+    width: 32.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+footer
+.box1 {
+    width:26.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+footer
+.box2{
+    width: 34.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+footer
+.box3{
+    width: 32.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+
+footer
+h1{
+	
+text-align: center;
+	
+font-size: 35px;
+	
+font-weight: 600;
+	
+margin: 0;
+}
